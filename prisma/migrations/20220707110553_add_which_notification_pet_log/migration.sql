@@ -1,0 +1,2 @@
+-- AlterEnum
+ALTER TYPE "WhichNotification" ADD VALUE 'FOLLOWING_WRITE_PETLOG';
